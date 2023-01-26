@@ -21,6 +21,7 @@ footer: 'Senmiddelalderen 1350–1536'
 # Svartedauden
 * Ca. 175 000–200 000 døde (av 350 000)
 
+
 ---
 
 # <!-- fit --> «Det kom et skip til Bjørgvin»
@@ -30,6 +31,10 @@ footer: 'Senmiddelalderen 1350–1536'
 * Tradisjonell oppfatning: Bjørgvin 1349
 * Nyere forskning: Usikkert når pesten kom. Kan ha vært på Østlandet i 1348. 
 * Hovedepidemien var mellom 1349–1350.
+
+---
+
+![bg h:700](https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg)
 
 ---
 
@@ -45,7 +50,6 @@ footer: 'Senmiddelalderen 1350–1536'
 
 ---
 # Konsekvenser
-
 
 
 * Adelen :chart_with_downwards_trend:: Jordleien til adelen går ned
