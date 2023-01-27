@@ -55,6 +55,7 @@ footer: 'Senmiddelalderen 1350–1536'
 
 ---
 ## <!-- fit --> Norge i union med Sverige og Danmark
+* Hansaen har kontroll over handelen
 * 1319–1355: Personalunion med Sverige. Magnus Eriksson valgt som konge i begge land.
 * 1380: Dronning Margrete styrer Danmark-Norge gjennom sin sønn Kong Olav
 * 1397: Dronning Margrete samler de nordiske landene gjennom Kalmarunionen
