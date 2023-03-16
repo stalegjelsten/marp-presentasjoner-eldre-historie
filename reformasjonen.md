@@ -60,7 +60,7 @@ beskrive religionens *betydning for samfunns- og maktforhold* fra middelalderen 
 - Boktrykkerkunsten gjorde at folk kunne kjøpe Bibelen
 - 1531–1555: Religionskriger i Det tysk-romerske riket
   - Freden i Augsburg 1555 slår fast at hver fyrste kan velge religion i sin stat
-- Hvorfor var protestantisme populært?
+* Hvorfor var protestantisme populært?
   - 🤴 Fyrster kunne overta kirkas eiendommer og gjøre seg selv til kirkas overhoder
   - 🧑‍🌾 Bønder "slapp" avlat
  
@@ -89,7 +89,7 @@ I [[Freden i Augsburg 1555]] ble det slått fast av hver fyrste skulle kunne bes
 ## Kalvinisme
 
 ![bg right:30%](https://media.snl.no/media/61474/standard_John_Calvin_by_Holbein.png)
-* Protestantisk retning oppkalt etter Jean Calvin (1509–1564)
+- Protestantisk retning oppkalt etter Jean Calvin (1509–1564)
 * Streng moral. Fjernet utsmykninger fra kirkerommet.
 * **Predestinasjon**: Gud har på forhånd bestemt hvem som skal frelses. 
 * Enorm arbeidsmoral 
@@ -106,5 +106,76 @@ Kalvinismen (og kalvinistisk tankesett) spredte seg i nordvest-Europa, spesielt 
 
 - Max Weber 1904
 - Å ha økonomisk suksess tydet på at Gud hadde valgt deg ut.
+
+---
+
+## Motreformasjon
+
+- Den katolske kirkes svar på reformasjonen
+- **Inkvisisjonen**: forhørsdomstol/tortur
+- 1567: Avlatshandel forbudt
+- Prestene får bedre utdanning
+* Både reformasjonen og motreformasjonen fører til mer opplyste folk
+
+
+<!--
+ [Jesuittordenen (1534)](https://no.wikipedia.org/wiki/Jesuittordenen)
+	* Misjon og infiltrasjon av hoff
+* Den pavelige Inkvisisjonen (1542): forhørsdomstol i for å avsløre kjetteri
+* Felipe 2 ihuget tilhenger av motreformasjon
+* 1536: Frankrike og Osmanske rike inngår handelsavtale
+	* Fr er svekket pga religionskrigene
+* Felipe ønsker allianse med England og frir til Elizabeth men blir avvist
+* De to armadaer i 1588 og 1597
+	* Felipe innser at gud har forlatt ham
+* Felipe øker skatteleggingen av nederlandene
+	* Ikke katolikker blir forfulgt
+	* Nederland utroper seg uavhengig i 1581
+	* Felipe driver beleiringskrig det er dyrt
+* Uenighet i hvilken grad felipe var rasjonell eller religionsfanatiker
+-->
+
+---
+## Defenestrasjonen i 1618
+ 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+![bg brightness:80%](https://images.immediate.co.uk/production/volatile/sites/7/2018/05/Prague-2-a37d3d3.jpg?quality=90&webp=true&resize=1024,683)
+
+<!--
+
+- Böhmen. Kritiske til kirken siden Jan Hus' tid
+- Keiseren ønsket å styrke katolisismen
+- Böhmerne kastet to av keiserens menn ut vinduet
+
+-->
+---
+## Trettiårskrigen 1618–1648
+
+- Religionskrig → maktpolitisk konflikt
+- Tyskland, Frankrike, Spania, Sverige, Danmark-Norge, Nederlandene
+- Freden i Westfalen 1648
+  - Det westfaliske systemet: stater er surverene og likeverdige. Konflikter burde løses med diplomati.
+---
+
+## Enormt gode spørsmål 👇
+
+1. Gjør rede for kalvinismen og predestinasjonslæren. Hvordan koblet Max Weber predestinasjonslæren til utviklingen av kapitalisme? 
+1. Massakrene av kalvinistiske protestanter (hugenotter) i Frankrike og trettiårskrigen er eksempler på hvor blodig reformasjonen ble. Hvorfor tror du det ble slik? Hva var det som sto på spill (religiøst og politisk)? 
+2. Freden i Westfalen regnes som en milepæl i Europas politiske historie? Hva var det den bestemte? 
+
+---
+## Videre lesing
+
+- [Reformasjonen](https://stales-notater.vercel.app/Kunnskap/Reformasjonen/)
+- [Trettiårskrigen](https://stales-notater.vercel.app/Kunnskap/Tretti%C3%A5rskrigen%201618%E2%80%931648/)
 
 ---
