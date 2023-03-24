@@ -28,10 +28,6 @@ Historie VG2
 
 ---
 
-## Kompetansemål
-beskrive religionens *betydning for samfunns- og maktforhold* fra middelalderen til og med vår tid og vurdere dens rolle i *menneskers selvoppfatning og syn på andre*.
-
----
 # <!--fit-->Reformasjon på 1-2-3-4
 
 ![bg brightness:0.4](https://media.snl.no/media/28577/article_topimage_Reformasjonen__2_.jpg)
