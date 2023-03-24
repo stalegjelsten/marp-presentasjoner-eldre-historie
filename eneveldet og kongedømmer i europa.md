@@ -81,6 +81,35 @@ beskrive religionens *betydning for samfunns- og maktforhold* fra middelalderen 
 * Eksempler: Frankrike, Danmark-Norge, Sverige, Habsburgerriket
 ---
 
+## Statsutvikling: sterk hær
+
+* Mer avanserte våpen: geværinfanterister og kanoner
+* Større *stående* (profesjonelle) hærstyrker
+  * Spania år 1500: 25 000 → år 1600: 200 000
+* Profesjonelt lederskap (offiserer)
+* Kostet enormt mye → Embetsverk som krever inn skatter og håndhever lover
+
+![bg left:20%](https://2.bp.blogspot.com/-WQLhhj3LGIM/T5qBTMz6USI/AAAAAAAAIDk/kQnIU1UNwZM/s1600/1220035987_203maa1.jpg)
+
+---
+
+## Økonomi: Merkantilisme
+
+* Merkantilisme: troen på at økonomi er zero-sum game
+* Mål for merkantilismen:
+  * samle gull og sølv i landet
+  * eksport ↗️ og import ↘️
+  * staten skal være selvforsynt
+* Metoder:
+  * toll på varer
+  * privilegier (lov/monopol til å drive med en type handel)
+
+---
+
+![w:800](https://cdn.cleverism.com/wp-content/uploads/2019/10/mercantilist.png.webp)
+
+---
+
 ## Ekspertgrupper
 
 1. Lese selv (20 min)
@@ -88,11 +117,7 @@ beskrive religionens *betydning for samfunns- og maktforhold* fra middelalderen 
    1. Send inn 3 begreper til Quizlet live
 3. Presentere tankekartet til opprinnelig gruppe (15 min)
 
-### Tema
-1. Frankrike
-2. England
-3. Protestantiske Nordvest-Europa + Nederland
-4. Habsburgerveldet og Spania
+Frankrike | England | Protestantiske Nordvest-Europa + Nederland | Habsburgerveldet og Spania
+![w:200](assets/QRCode%20for%20Begreper%20om%20stater%20og%20statsutvikling%20i%20Europa%20på%201600-tallet%20.png)
 
 ---
-![w:200](assets/QRCode%20for%20Begreper%20om%20stater%20og%20statsutvikling%20i%20Europa%20på%201600-tallet%20.png)
